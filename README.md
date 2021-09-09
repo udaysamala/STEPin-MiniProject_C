@@ -2,7 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status]()]() | [![Code Quality - Static Code - Cppcheck](https://www.code-inspector.com/project/28403/score/svg)](https://www.code-inspector.com/project/28403/status/svg) [![CodeQuality Dynamic Code Analysis Valgrind]()]() [![CI-Coverage]()]()| [![Unit Testing - Unity]()]() | [![Contribution Check - Git Inspector]()]()
+[]() | ![Code Quality Score](https://www.code-inspector.com/project/28403/score/svg) ![Code Grade](https://www.code-inspector.com/project/28403/status/svg) |  | 
 
 ## Folder structure:
 
@@ -17,7 +17,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`99006068` | UdayKumar  | Complete project   | 6   | 6     |
+|`99006068` | UdayKumar Samala  | Complete project   | 6   | 6     |
     
 
 ## Challenges Faced and How Was It Overcome
@@ -30,5 +30,4 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 2. [pointers in c](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)
 3. [Number system in digital elecronics](https://learnabout-electronics.org/Digital/dig11.php)
 4. [Dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
-5. [git inspector](https://github.com/ejwa/gitinspector.git)
-6. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+

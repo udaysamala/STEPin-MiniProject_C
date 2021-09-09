@@ -2,7 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-
+[![C/C++ CI - Build Status]()]() | [![Code Quality - Static Code - Cppcheck](https://www.code-inspector.com/project/28403/score/svg)](https://www.code-inspector.com/project/28403/status/svg) [![CodeQuality Dynamic Code Analysis Valgrind]()]() [![CI-Coverage]()]()| [![Unit Testing - Unity]()]() | [![Contribution Check - Git Inspector]()]()
 
 ## Folder structure:
 

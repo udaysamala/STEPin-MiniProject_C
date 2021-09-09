@@ -2,7 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[]() | ![Code Quality Score](https://www.code-inspector.com/project/28403/score/svg) ![Code Grade](https://www.code-inspector.com/project/28403/status/svg) |  | 
+[![C/C++ CI - Build Status](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/c%20CI.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/c%20CI.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/code%20q%20dynamic.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/code%20q%20dynamic.yml) [![CI-Coverage](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gcov.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/unity.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/udaysamala/STEPin-MiniProject_C/actions/workflows/gitinspector.yml)
 
 ## Folder structure:
 
